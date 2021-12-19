@@ -5,6 +5,10 @@
 
 COVID-19 is still now a sophisticated problem worldwide. Patients who severly caught the disease have to use ventilator under the supervision and control from qualified medical professional. However, the mutiple rise in the number of infectious cases in some places led medical systems fall into overloading condition. Thus, building ventilator utilizing the automatically paramtric control in curing process takes a crucial role at present times. In this work, we would conduct predicting ventilator pressure based on ventilator's paramters and patients conditions throught the use of XGBoost algorithm. In addition to Deep learning techniques, XGBoost is a Machine Learning algorithm to solve supervised learning problems with a high precision and has achived itself many a winning from Kaggle's competitions in Data Mining and Machine Learning. Moreoever, XGBoost has a rapid training time and parallel computating ability due to harnessing the power from GPU.
 
+---
+
+🎃🎃 <b> Read our full report [here](https://github.com/DTA-UIT/Ventilator_Pressure_Prediction/blob/main/report.pdf)</b>
+
 ### Table of contents
 1. [Introduction](#1-introduction)
 2. [Method](#2-method)
