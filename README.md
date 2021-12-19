@@ -109,4 +109,4 @@ COVID-19 is still now a sophisticated problem worldwide. Patients who severly ca
 
 [14] Taniya. Machine learning algorithms: A comparisonof different algorithms and when to use them, May2018.
 
-[15] Cha Zhang and Yunqian Ma.Ensemble MachineLearning: Methods and Applications. SpringerPublishing Company, Incorporated, 2012.
+[15] Cha Zhang and Yunqian Ma. Ensemble MachineLearning: Methods and Applications. SpringerPublishing Company, Incorporated, 2012.
