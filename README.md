@@ -38,7 +38,7 @@ COVID-19 is still now a sophisticated problem worldwide. Patients who severly ca
   
 #### 2. Method
 - XGBoost, or also known as *eXtreme Gradient Boosting*, is an ML decision-tree-based ensemble algorithm. XGBoost was developed by Tianqi Chen. It is now a part of extended open-source collection and developed by Distributed Machine Learning Community. Despite the fact that Artifical Neural Network nowadays has a more outstanding performance on non-structured data, e.g. images, sounds, decision-tree-based models often have their own advantages compared to neural network models on  small and tabular data.    
-- 
+
 - In this work, we conduct tuning XGBoost's hyperparamters to achieve a good performance on the Google Brain's dataset.
 #### 3. Metric
 - Through experimental process, we choose to use our metric as the Mean Absolute Error (or MAE in short). This metric is used to measure the difference between 2 continuous variables.     
