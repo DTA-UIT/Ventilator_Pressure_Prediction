@@ -1,0 +1,31 @@
+<div class="container">
+    <form method="POST" enctype="application/x-www-form-urlencoded" action="/upload_model">
+        <div class="form-group">
+            <label for="ID">ID</label>
+            <input type="text" class="form-control" name="ID" placeholder="5">
+
+            <label for="BreathID">Breath ID</label>
+            <input type="text" class="form-control" name="BreathID" placeholder="6">
+
+            <label for="R">R</label>
+            <input type="text" class="form-control" name="R" placeholder="20">
+
+            <label for="C">C</label>
+            <input type="text" class="form-control" name="C" placeholder="50">
+
+            <label for="Time_Step">Time step</label>
+            <input type="text" class="form-control" name="Time_Step" placeholder="0.033652">
+
+            <label for="U_IN">U IN</label>
+            <input type="text" class="form-control" name="U_IN" placeholder="0.08">
+
+            <label for="U_OUT">U OUT</label>
+            <select class="form-control" name="U_OUT">
+                <option>0</option>
+                <option>1</option>
+            </select>
+        </div>
+
+        <input type="submit" value="Predict Pressure" class="btn btn-primary mb-2"> 
+    </form>
+</div>
