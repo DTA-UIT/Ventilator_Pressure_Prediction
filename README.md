@@ -37,13 +37,16 @@ COVID-19 is still now a sophisticated problem worldwide. Patients who severly ca
   - `pressure` - the airway pressure measured in the respiratory circuit, measured in cmH2O. 
   
 #### 2. Method
-- XGBoost, or also known as *eXtreme Gradient Boosting*, is an ML decision-tree-based ensemble algorithm. XGBoost was developed by Tianqi Chen. It is now a part of extended open-source collection and developed by Distributed Machine Learning Community. Despite the fact that Artifical Neural Network nowadays has a more outstanding performance on non-structured data, e.g. images, sounds, decision-tree-based models often have their own advantages compared to neural network models on  small and tabular data.
+- XGBoost, or also known as *eXtreme Gradient Boosting*, is an ML decision-tree-based ensemble algorithm. XGBoost was developed by Tianqi Chen. It is now a part of extended open-source collection and developed by Distributed Machine Learning Community. Despite the fact that Artifical Neural Network nowadays has a more outstanding performance on non-structured data, e.g. images, sounds, decision-tree-based models often have their own advantages compared to neural network models on  small and tabular data.    
+- 
 - In this work, we conduct tuning XGBoost's hyperparamters to achieve a good performance on the Google Brain's dataset.
 #### 3. Metric
-- Through experimental process, we choose to use our metric as the Mean Absolute Error (or MAE in short). This metric is used to measure the difference between 2 continuous variables. 
+- Through experimental process, we choose to use our metric as the Mean Absolute Error (or MAE in short). This metric is used to measure the difference between 2 continuous variables.     
+
 - In regression problems, people use this metric to evaluate the difference between prediction model and validation set. The smaller MAE is, the better performance our algorithm has.
 #### 4. Hyperparameters tuning
-- We choose to use *[Grid Search method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)* to choose the best parameters for XGBoost. Grid search is a hyperparameters tuning method to find the most optimal parameters set for a given problem. This is a brute force technique executed on a defined search space. Despite its easy usage, it helps us a lot in saving time, effort, and resources in finding the suitable hyperparameters.
+- We choose to use *[Grid Search method](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)* to choose the best parameters for XGBoost. Grid search is a hyperparameters tuning method to find the most optimal parameters set for a given problem. This is a brute force technique executed on a defined search space. Despite its easy usage, it helps us a lot in saving time, effort, and resources in finding the suitable hyperparameters.      
+
 - After running Grid Search, we came into decision to choose the hyperparameters for XGBoost as:
 
 <div align="center">
