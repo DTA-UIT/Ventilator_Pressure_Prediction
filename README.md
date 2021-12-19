@@ -81,32 +81,32 @@ COVID-19 is still now a sophisticated problem worldwide. Patients who severly ca
 #### 6. Demo
 
 #### 7. References
-[1]Tianqi Chen and Carlos Guestrin. Xgboost.Proceedings of the 22nd ACM SIGKDD InternationalConference on Knowledge Discovery and DataMining, Aug 2016.
+[1] Tianqi Chen and Carlos Guestrin. Xgboost.Proceedings of the 22nd ACM SIGKDD InternationalConference on Knowledge Discovery and DataMining, Aug 2016.
 
-[2]Corinna Cortes and Vladimir Vapnik. Support-vectornetworks.Machine learning, 20(3):273–297, 1995.
+[2] Corinna Cortes and Vladimir Vapnik. Support-vectornetworks.Machine learning, 20(3):273–297, 1995.
 
-[3]David R Cox. The regression analysis of binarysequences.Journal of the Royal Statistical Society:Series B (Methodological), 20(2):215–232, 1958.
+[3] David R Cox. The regression analysis of binarysequences.Journal of the Royal Statistical Society:Series B (Methodological), 20(2):215–232, 1958.
 
-[4]Anna Veronika Dorogush, Vasily Ershov, and AndreyGulin. Catboost: gradient boosting with categoricalfeatures support.arXiv preprint arXiv:1810.11363,2018.
+[4] Anna Veronika Dorogush, Vasily Ershov, and AndreyGulin. Catboost: gradient boosting with categoricalfeatures support.arXiv preprint arXiv:1810.11363,2018.
 
-[5]Jerome H Friedman. Greedy function approximation: agradient boosting machine.Annals of statistics, pages1189–1232, 2001.
+[5] Jerome H Friedman. Greedy function approximation: agradient boosting machine.Annals of statistics, pages1189–1232, 2001.
 
-[6]Rohan Harode. Xgboost: A deep dive into boosting,February 2020.
+[6] Rohan Harode. Xgboost: A deep dive into boosting,February 2020.
 
-[7]Xinran He, Junfeng Pan, Ou Jin, Tianbing Xu, Bo Liu,Tao Xu, Yanxin Shi, Antoine Atallah, Ralf Herbrich,Stuart Bowers, and Joaquin Qui ̃nonero Candela.Practical lessons from predicting clicks on ads atfacebook. InProceedings of the Eighth InternationalWorkshop on Data Mining for Online Advertising,ADKDD’14, page 1–9, New York, NY, USA, 2014.Association for Computing Machinery.
+[7] Xinran He, Junfeng Pan, Ou Jin, Tianbing Xu, Bo Liu,Tao Xu, Yanxin Shi, Antoine Atallah, Ralf Herbrich,Stuart Bowers, and Joaquin Qui ̃nonero Candela.Practical lessons from predicting clicks on ads atfacebook. InProceedings of the Eighth InternationalWorkshop on Data Mining for Online Advertising,ADKDD’14, page 1–9, New York, NY, USA, 2014.Association for Computing Machinery.
 
-[8]Tin Kam Ho. Random decision forests. InProceedingsof 3rd international conference on document analysisand recognition, volume 1, pages 278–282. IEEE,1995.
+[8] Tin Kam Ho. Random decision forests. InProceedingsof 3rd international conference on document analysisand recognition, volume 1, pages 278–282. IEEE,1995.
 
-[9]Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang,Wei Chen, Weidong Ma, Qiwei Ye, and Tie-YanLiu. Lightgbm: A highly efficient gradient boostingdecision tree.Advances in neural informationprocessing systems, 30:3146–3154, 2017.
+[9] Guolin Ke, Qi Meng, Thomas Finley, Taifeng Wang,Wei Chen, Weidong Ma, Qiwei Ye, and Tie-YanLiu. Lightgbm: A highly efficient gradient boostingdecision tree.Advances in neural informationprocessing systems, 30:3146–3154, 2017.
 
-[10]Steven M LaValle, Michael S Branicky, and Stephen RLindemann. On the relationship between classical gridsearch and probabilistic roadmaps.The InternationalJournal of Robotics Research, 23(7-8):673–692, 2004.
+[10] Steven M LaValle, Michael S Branicky, and Stephen RLindemann. On the relationship between classical gridsearch and probabilistic roadmaps.The InternationalJournal of Robotics Research, 23(7-8):673–692, 2004.
 
-[11]Ping Li. Robust logitboost and adaptive base class(abc) logitboost, 2012.
+[11] Ping Li. Robust logitboost and adaptive base class(abc) logitboost, 2012.
 
-[12]Warren S McCulloch and Walter Pitts.  A logicalcalculus of the ideas immanent in nervous activity.The bulletin of mathematical biophysics, 5(4):115–133, 1943.
+[12] Warren S McCulloch and Walter Pitts. A logicalcalculus of the ideas immanent in nervous activity.The bulletin of mathematical biophysics, 5(4):115–133, 1943.
 
-[13]Robert E Schapire. Explaining adaboost. InEmpiricalinference, pages 37–52. Springer, 2013.
+[13] Robert E Schapire. Explaining adaboost. InEmpiricalinference, pages 37–52. Springer, 2013.
 
-[14]Taniya. Machine learning algorithms: A comparisonof different algorithms and when to use them, May2018.
+[14] Taniya. Machine learning algorithms: A comparisonof different algorithms and when to use them, May2018.
 
-[15]Cha Zhang and Yunqian Ma.Ensemble MachineLearning: Methods and Applications.   SpringerPublishing Company, Incorporated, 2012.
+[15] Cha Zhang and Yunqian Ma.Ensemble MachineLearning: Methods and Applications. SpringerPublishing Company, Incorporated, 2012.
