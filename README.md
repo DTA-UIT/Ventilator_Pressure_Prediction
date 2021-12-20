@@ -84,6 +84,36 @@ COVID-19 is still now a sophisticated problem worldwide. Patients who severly ca
 
 #### 6. Demo
 
+<div align='center'>
+
+![01_input](https://user-images.githubusercontent.com/67086934/146699704-646afba5-2d58-464f-bba1-2e32b6a6aa53.png)
+
+</div> 
+
+<div align='center'>	
+<b>Input process</b>
+</div> 
+
+<div align='center'>
+	
+![01_output](https://user-images.githubusercontent.com/67086934/146699715-1e181d14-c564-4f3c-8b1b-2c02a11856bc.png)
+
+</div>
+
+<div align='center'>
+<b>Output process</b>
+</div>
+
+<div align='center'>
+	
+<a link href ='https://user-images.githubusercontent.com/67086934/146700012-2819c8e9-86f2-4699-82e1-1d5acd98873c.mp4'>Demo </a>
+
+</div>
+
+<div align='center'>
+<b> Full demo video </b>	
+</div>
+
 #### 7. References
 [1] Tianqi Chen and Carlos Guestrin. Xgboost.Proceedings of the 22nd ACM SIGKDD InternationalConference on Knowledge Discovery and DataMining, Aug 2016.
 
